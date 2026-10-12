@@ -4,8 +4,11 @@
 
 ---
 ## Ảnh chụp màn hình
+
+## Giao diện người dùng
 <img width="1859" height="879" alt="image" src="https://github.com/user-attachments/assets/dca953dd-d5be-4ac6-a4f5-0a2710b0c5e1" />
 
+## Giao diện quản lý 
 <img width="1879" height="878" alt="image" src="https://github.com/user-attachments/assets/47be0c6d-92cc-41b4-9b77-4918aed71daa" />
 
 <img width="1886" height="882" alt="image" src="https://github.com/user-attachments/assets/7eda89fb-fc8f-4f59-8e03-50aaf47038e2" />
